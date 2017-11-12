@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">ProvidersAnalyzer</string>
+
+	<string name="authority">content://%1s</string>
+	<string name="readPermission">Read permission: &#160; %1s</string>
+	<string name="writePermission">Write permission: &#160; %1s</string>
+	<string name="plsRecViewText">Заполните поля для доступа к контенту</string>
+	<string name="projection">Projection</string>
+	<string name="selection">Selection</string>
+	<string name="selection_args">Selection args</string>
+	<string name="query">query</string>
+</resources>
